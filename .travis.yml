@@ -1,2 +1,6 @@
 script:
   - echo "hello"
+
+branches:
+  only:
+  - master
