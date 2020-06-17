@@ -1,5 +1,3 @@
 # webhook-test
 
 boom
-
-hi
